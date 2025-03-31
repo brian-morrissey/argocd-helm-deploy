@@ -3,4 +3,4 @@ cluster_config:
 
 sysdig_endpoint:
   access_key: xxxxxxxxxxx-xxxxxxxxxxxxx
-  api_url: https://app.us4.sysdig.com
+  region: us4
