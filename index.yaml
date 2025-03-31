@@ -20,6 +20,6 @@ entries:
     name: shield
     type: application
     urls:
-    - https://github.com/brian-morrissey/argocd-helm-deploy/shield-0.10.0.tgz
+    - https://raw.githubusercontent.com/brian-morrissey/argocd-helm-deploy/refs/heads/main/shield-0.10.0.tgz
     version: 0.10.0
 generated: "2025-03-31T10:24:43.17180905-04:00"
